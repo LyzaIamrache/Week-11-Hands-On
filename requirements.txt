@@ -1,0 +1,8 @@
+streamlit==1.36.0
+snowflake-connector-python==3.11.0
+python-dotenv==1.0.1
+pandas==2.2.2
+httpx==0.27.2
+groq==0.9.0
+cryptography==42.0.8
+PyYAML==6.0.1
